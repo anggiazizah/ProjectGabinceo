@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#e8281a"/>
+  <!-- kanopi -->
+  <path d="M10 24 L14 14 H50 L54 24 Z" fill="#f6a623"/>
+  <path d="M10 24 H54 V28 H10 Z" fill="#fff"/>
+  <!-- badan gerai -->
+  <rect x="14" y="28" width="36" height="22" fill="#fff"/>
+  <!-- pintu -->
+  <rect x="26" y="34" width="12" height="16" rx="1" fill="#e8281a"/>
+  <!-- lantai -->
+  <rect x="10" y="50" width="44" height="3" rx="1.5" fill="#fff"/>
+</svg>
